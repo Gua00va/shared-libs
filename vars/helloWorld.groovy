@@ -1,3 +1,3 @@
 def call(String name, String day) {
-    sh "echo Hello ${name}. Today is ${name}."
+    sh "echo Hello ${name}. Today is ${day}."
 }
